@@ -11,17 +11,22 @@ This repository contains machine learning projects completed during the CodSoft 
 - Detect fraudulent credit card transactions using classification algorithms.
 
 ### Task 3: Customer Churn Prediction
-- To be added.
+- Predict customer churn using machine learning models.
 
 ### Task 4: SMS Spam Detection
-- To be added.
+- Classify SMS messages as spam or ham using natural language processing techniques.
 
 ### Task 5: Customer Segmentation
-- To be added.
+- Segment customers into different groups based on purchasing behavior.
 
 ## Technologies Used
+
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
+- Matplotlib
+- Seaborn
+- NLTK
 - Google Colab
+- Jupyter Notebook
