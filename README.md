@@ -5,21 +5,19 @@ This repository contains the machine learning projects completed during my CodSo
 ## Tasks
 
 ### Task 1: Movie Genre Classification
-Predict movie genres based on movie plot descriptions using Natural Language Processing (NLP) and Machine Learning techniques.
+Predict movie genres using machine learning techniques.
 
 ### Task 2: Credit Card Fraud Detection
-Detect fraudulent credit card transactions using classification algorithms and data analysis techniques.
+Detect fraudulent credit card transactions using classification algorithms.
 
 ### Task 3: Customer Churn Prediction
-Predict whether a customer is likely to leave a service using machine learning models.
+Predict customer churn using machine learning models.
 
 ### Task 4: SMS Spam Detection
-Classify SMS messages as Spam or Ham using Natural Language Processing and Machine Learning.
+Classify SMS messages as Spam or Ham using NLP techniques.
 
 ### Task 5: Handwritten Text Generation
-Generate text sequences using Deep Learning techniques. The project uses an LSTM (Long Short-Term Memory) neural network trained on a text dataset to generate human-like text.
-
----
+Generate human-like text using an LSTM-based deep learning model.
 
 ## Technologies Used
 
@@ -33,10 +31,8 @@ Generate text sequences using Deep Learning techniques. The project uses an LSTM
 - Keras
 - NLTK
 - Google Colab
-- Jupyter Notebook
-- Git
 - GitHub
 
----
+## Author
 
-## Repository Structure
+**Aaradhy Sharma**
