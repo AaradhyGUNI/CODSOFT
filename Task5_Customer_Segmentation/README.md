@@ -12,3 +12,4 @@ This project segments customers into different groups based on purchasing behavi
 - Seaborn
 - Google Colab
 - Jupyter Notebook
+- TensorFlow
