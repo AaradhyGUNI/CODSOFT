@@ -16,8 +16,7 @@ This repository contains machine learning projects completed during the CodSoft 
 ### Task 4: SMS Spam Detection
 - Classify SMS messages as spam or ham using natural language processing techniques.
 
-### Task 5: Customer Segmentation
-- Segment customers into different groups based on purchasing behavior.
+### Task5_Handwritten_Text_Generation/README.md
 
 ## Technologies Used
 
